@@ -3,11 +3,13 @@
 
 ## Problem Statement
 
-Pharmaceutical companies are facing the challenge of customer churn and decreasing satisfaction rate. Unhappy customers are switching to other companies and giving bad reviews that might negatively impact their brand value. Therefore, there is a need to efficiently indentify unhappy customers and quickly conduct customer recovery. Companies will also need to make improvements to their drugs after gathering more information from unsatisfied customers. Besides that, pharmaceutical companies will need to know their customer segments in order to provide tailored services to enhace customer experience and also to develop marketing strategies to boost sales. Lastly, companies will need to efficiently recommend medicines to customers based on their condition or switch drugs when customer is not satisfied with their existing drug. 
+Pharmaceutical companies are facing the challenge of customer churn. Unhappy customers are switching to other companies and giving bad reviews that might negatively impact their brand value. Therefore, there is a need to efficiently identify unhappy customers and quickly conduct customer recovery. Companies will also need to make improvements to their drugs after gathering more information from unsatisfied customers. This is especially important in the internet era, where reviews could be written anywhere on the internet such as website, blogs and social media. In most instance, no explicit rating or score will be given, these reviews will come only in text form. Therefore, it is necessary to devlop classification models to quickly and automatically classify reviews based on sentiments. Besides that, pharmaceutical companies will need to know their customer segments in order to provide tailored services to enhance customer experience and also to develop marketing strategies to boost sales. Lastly, companies will need to efficiently recommend medicines to customers based on their condition or switch drugs when customer is not satisfied with their existing drug. 
 
 Therefore, our problem statement can be summed up to: preventing customer churn, identify hidden segments and improving satisfaction. 
 
-Pharmceutical companies, clinics and hospitals will benefit from this project. It will help them to reduce customer churn, improve their service offering and making their business more profitable. Patients will also benefit from better service and more effective medicines.
+Pharmaceutical companies, clinics and hospitals will benefit from this project. Companies could use the models created to quickley identify positive or negative reviews on websites or social media where no explicit score/rating was given. It will help them to reduce customer churn, improve their service offering and making their business more profitable. Patients will also benefit from better service and more effective medicines. 
+
+Note: Dataset is from UCI Machine Learning Repository: Drug Review Dataset (Drugs.com) Data Set
 
 ## Executive Summary
 
